@@ -17,4 +17,6 @@
 ## X-VEM-Mod-Sort: 40
 ## X-VEM-Mod-MapID: 1148
 localization.en.lua
+localization.tw.lua
+localization.cn.lua
 PGWhiteTiger.lua
