@@ -12,9 +12,9 @@ L:SetOptionLocalization({
 	count3				= "3rd Wave",
 	count4				= "4th Wave",
 	count5				= "5th Wave",
-	count6				= "6th Wave"
-	count7				= "7th Wave"
-	count8				= "8th Wave"
-	count9				= "9th Wave"
+	count6				= "6th Wave",
+	count7				= "7th Wave",
+	count8				= "8th Wave",
+	count9				= "9th Wave",
 	count10				= "10th Wave"
 })
